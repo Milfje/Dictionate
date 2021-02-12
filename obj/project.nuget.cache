@@ -1,21 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GIAiIGEiKWsOYVy6ZWNwI3K4ZcrD/kUVQX8DRnCmSrZxLjEx1CHuW2I6EhMP5DVaYjIi1hn0QmsZ18KTeWEbwA==",
+  "dgSpecHash": "XMFfTPZtZkgqvHC39mFAqAgie522H4fYm5NbBbsDvgzhfQzc8TYAZBOq2i1wX1lfkcLvrdR380cq1sLQuyqdQw==",
   "success": true,
-  "projectFilePath": "e:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
+  "projectFilePath": "E:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\melvi\\.nuget\\packages\\ndesk.options\\0.2.1\\ndesk.options.0.2.1.nupkg.sha512"
+    "C:\\Users\\melvi\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'NDesk.Options 0.2.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "NDesk.Options",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj": {}
+    "E:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj": {}
   },
   "projects": {
-    "e:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj": {
+    "E:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
+        "projectUniqueName": "E:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
         "projectName": "Dictionate",
-        "projectPath": "e:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
+        "projectPath": "E:\\Drive\\Documenten\\Code\\Dictionate\\Dictionate.csproj",
         "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
-        "outputPath": "e:\\Drive\\Documenten\\Code\\Dictionate\\obj\\",
+        "outputPath": "E:\\Drive\\Documenten\\Code\\Dictionate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\melvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,9 +38,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "NDesk.Options": {
+            "CommandLineParser": {
               "target": "Package",
-              "version": "[0.2.1, )"
+              "version": "[2.8.0, )"
             }
           },
           "imports": [
