@@ -13,3 +13,4 @@ E:\Drive\Documenten\Code\Dictionate\obj\Debug\netcoreapp3.1\Dictionate.dll
 E:\Drive\Documenten\Code\Dictionate\obj\Debug\netcoreapp3.1\Dictionate.pdb
 E:\Drive\Documenten\Code\Dictionate\obj\Debug\netcoreapp3.1\Dictionate.genruntimeconfig.cache
 E:\Drive\Documenten\Code\Dictionate\bin\Debug\netcoreapp3.1\CommandLine.dll
+E:\Drive\Documenten\Code\Dictionate\bin\Debug\netcoreapp3.1\ByteSize.dll
