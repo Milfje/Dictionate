@@ -7,7 +7,7 @@ Clone the repository and build the tool, or download one of the [pre-built relea
 
 ### Default
 
-By default, `Dictionary.exe` expects a source file with the `-s` parameter. In the default mode, the depth (number of words to concatenate to the source list max) is set to 2 and repetition is set to false. This means the words in your source list won't by combined with themselves.
+By default, `Dictionate.exe` expects a source file with the `-s` parameter. In the default mode, the depth (number of words to concatenate to the source list max) is set to 2 and repetition is set to false. This means the words in your source list won't by combined with themselves.
 
 ```
 Dictionary.exe -s input.txt
@@ -15,7 +15,7 @@ Dictionary.exe -s input.txt
 
 ### Commandline arguments
 
-The additional options for `Dictionary.exe` can be found by using the `--help` flag, or by running `Dictionary.exe` without specifying a required input file. The options are:
+The additional options for `Dictionate.exe` can be found by using the `--help` flag, or by running `Dictionate.exe` without specifying a required input file. The options are:
 
  Short | Extended | Required | Default | Description 
  :---: | --- | --- | --- | ---
